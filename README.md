@@ -15,7 +15,7 @@ Must read for an aspiring UXer...more like UXer's Bibles.
 
 [100 Things Every Designer Needs to Know About People](https://www.amazon.com/dp/0321767535/ref=cm_sw_su_dp)
 
-More specific readings [here] , but understand what you are interested in because it will start getting redundant.
+More specific readings [here](https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff) , but understand what you are interested in because it will start getting redundant.
 
 
 
